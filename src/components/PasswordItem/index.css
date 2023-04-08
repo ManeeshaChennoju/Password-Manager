@@ -1,0 +1,57 @@
+.password_card {
+  border: 1px solid #9ba9eb;
+  padding: 10px;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+
+.user_initial {
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  font-size: 18px;
+  color: white;
+  font-weight: bold;
+  background-color: #f59e0b;
+  margin: 5px;
+}
+
+.passwordDetails_con {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 10px;
+}
+
+.website {
+  color: white;
+}
+
+.username {
+  color: white;
+}
+.password {
+  color: white;
+}
+.stars_image {
+  width: 100px;
+}
+
+.delete_iconImg {
+  width: 25px;
+  height: 25px;
+  margin: 4px;
+}
+
+button {
+  border: none;
+  background-color: transparent;
+}
